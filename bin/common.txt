@@ -1,0 +1,13 @@
+##店铺URL地址
+http://s.1688.com/selloffer/offer_search.htm?keywords=%CA%D6%BB%FA%BF%C7&n=y&spm=a260k.635.1998096057.d1
+http://s.1688.com/selloffer/offer_search.htm?keywords=%D2%C6%B6%AF%B5%E7%D4%B4&button_click=top&earseDirect=false&n=y&sug=1_0
+http://s.1688.com/selloffer/offer_search.htm?keywords=%B1%A3%CE%C2%B1%AD&button_click=top&earseDirect=false&n=y&sug=2_0
+
+##从第几页开始
+pstart=1
+##抓取几页
+pages=1
+##保存的地址
+saveUrl=D:\\店铺.csv
+##保存的地址
+imgFile=D:\\店铺图片\\
